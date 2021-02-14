@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Invision/Proto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2h-Design-Thinking-Workshops" transform="translate(-171.000000, -703.000000)">
+            <g id="Group-8" transform="translate(149.000000, 669.000000)">
+                <g id="Page-1" filter="url(#filter-1)" transform="translate(26.000000, 36.000000)">
+                    <polygon id="Fill-1" fill="#4FD684" points="24.5555556 6 27 8.44444444 7.44444444 28 5 25.5555556"></polygon>
+                    <polygon id="Fill-2" fill="#3EC975" points="21.5554424 4 24 6.44433128 4.44353905 26 2 23.5546502"></polygon>
+                    <polygon id="Fill-3" fill="#F9D5B7" points="0 30 7 27.6666667 2.33333333 23"></polygon>
+                    <polygon id="Fill-4" fill="#383838" points="0 30 4 28.6655556 1.33370381 26"></polygon>
+                    <polygon id="Fill-5" fill="#D8D8D8" points="22.5563784 3 27 7.44444444 26.4445473 8 22 3.55555556"></polygon>
+                    <polygon id="Fill-6" fill="#FCABBE" points="25.0769231 0 22 3.0773176 26.9230769 8 30 4.92370817"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-22.6%" y="-16.1%" width="145.2%" height="145.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <pattern id="pattern-2" width="10" height="10" x="-10" y="-2.889" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.5,0.5)"></use>
+        </pattern>
+        <image id="image-3" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAABGdBTUEAA1teXP8meAAAARlJREFUOBGNkruuhEAMQ3eACiH+/yOhAVHxuodrrTWToViKyIntJBqS7vv+/H/HcSzLAhzHses6FR1f2cY0IKWUp2C3DnWlhbmW1u3yLh37KD/PMwDraHpdV85SoW+a55kqoB5rcwASN3wiamddsVIUMe37riprb9tG177v27Z9uO/7gVkbFuUwDIwUy08p/gpVnHlROj8NTrPFa3sxgRC9iOuFmSEQtUhqsXYCCvOr7bWoFoU57xpwPTZODoY8fZ3/04XRJb8/P02apsldARCKHuuKZEphSRuVJLVOqag8yiP2weHC8HND3IkUnsOFretKI+7PRwIoLgw6XJi6cGFa4TF8LcWvEu2tAhCbawqzVw02lqeSRwn+AL3rvJbz+KXXAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="Invision/Proto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2h-Design-Thinking-Workshops" transform="translate(-171.000000, -1308.000000)">
+            <g id="Group-4" transform="translate(149.000000, 1274.000000)">
+                <g id="Page-1" filter="url(#filter-1)" transform="translate(26.000000, 36.000000)">
+                    <path d="M27.7933,9.0081 L27.1143,9.0081 L19.3953,9.0081 C19.3953,9.0081 20.8943,6.2691 21.2383,5.0021 L21.4693,4.1531 C21.8663,2.6931 21.2163,1.1511 19.8933,0.4151 L19.3683,0.1241 C18.8833,-0.1449 18.2703,0.0391 18.0153,0.5321 C16.3043,3.8411 12.5633,7.5071 11.7333,8.1671 C10.9033,8.8271 9.7773,9.0081 9.7773,9.0081 L9.7773,27.7361 L13.7933,27.7361 L24.3283,27.7361 L25.0643,27.7361 C26.1963,27.7361 27.1143,26.8181 27.1143,25.6841 L27.1143,25.1051 C27.1143,23.9721 26.1963,23.0531 25.0643,23.0531 L26.3553,23.0531 C27.5333,23.0531 28.4883,22.0981 28.4883,20.9191 L28.4883,20.5061 C28.4883,19.3271 27.5333,18.3711 26.3553,18.3711 L26.9893,18.3711 C28.1893,18.3711 29.1633,17.3991 29.1633,16.1971 L29.1633,15.8631 C29.1633,14.6631 28.1893,13.6901 26.9893,13.6901 L27.7923,13.6901 C29.0203,13.6901 30.0153,12.6951 30.0153,11.4671 L30.0153,11.2311 C30.0163,10.0031 29.0213,9.0081 27.7933,9.0081" id="Fill-1" fill="#F9D4B9"></path>
+                    <polygon id="Fill-4" fill="url(#pattern-2)" points="0 30.001 10.433 30.001 10.433 7.111 0 7.111"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

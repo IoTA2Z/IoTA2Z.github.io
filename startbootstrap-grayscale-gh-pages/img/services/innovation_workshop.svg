@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="121px" viewBox="0 0 133 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>innovation workshop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FAFAFA" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Invision/Proto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2b-Services" transform="translate(-259.000000, -1166.000000)">
+            <g id="@subservice5" transform="translate(207.000000, 1166.000000)">
+                <g id="innovation-workshop" transform="translate(52.000000, 0.000000)">
+                    <g id="Layer_2">
+                        <g>
+                            <g id="Layer_1-2">
+                                <image id="Bitmap" opacity="0.15" x="0" y="0" width="133" height="121" xlink:href="data:image/png;base64,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"></image>
+                                <rect id="Rectangle-path" fill="url(#linearGradient-1)" fill-rule="nonzero" x="7.15" y="5.49" width="116" height="90"></rect>
+                                <rect id="Rectangle-path" fill="#D8D8D8" fill-rule="nonzero" x="64.15" y="95.49" width="2" height="18"></rect>
+                                <rect id="Rectangle-path" fill="#D8D8D8" fill-rule="nonzero" x="5.15" y="93.49" width="120" height="4"></rect>
+                                <polygon id="Shape" fill="#D8D8D8" fill-rule="nonzero" points="50.56 113.49 49.15 112.07 65.15 96.07 65.15 98.9"></polygon>
+                                <polygon id="Shape" fill="#D8D8D8" fill-rule="nonzero" points="79.73 113.49 81.15 112.07 65.15 96.07 65.15 98.9"></polygon>
+                                <path d="M65,78.42 C44.31,68.84 35.74,55.28 32.2,45.59 C29.8890593,39.5379703 28.9465106,33.0494101 29.44,26.59 L29.94,26.66 C29.4611023,33.0355266 30.3967343,39.4381175 32.68,45.41 C36.19,55 44.68,68.41 65.22,77.93 L65,78.42 Z" id="Shape" fill="#D8D8D8" fill-rule="nonzero"></path>
+                                <circle id="Oval" fill="#EFE85B" fill-rule="nonzero" cx="65.15" cy="43.5" r="10.03"></circle>
+                                <rect id="Rectangle-path" fill="#EFE85B" fill-rule="nonzero" x="59.13" y="49.52" width="12.03" height="6.02"></rect>
+                                <rect id="Rectangle-path" fill="#797979" fill-rule="nonzero" x="64.64" y="47.51" width="1" height="8.02"></rect>
+                                <rect id="Rectangle-path" fill="#797979" fill-rule="nonzero" transform="translate(66.382338, 46.019770) rotate(-45.000000) translate(-66.382338, -46.019770) " x="64.1273377" y="45.5197704" width="4.51" height="1"></rect>
+                                <rect id="Rectangle-path" fill="#797979" fill-rule="nonzero" transform="translate(63.915784, 46.023395) rotate(-45.000000) translate(-63.915784, -46.023395) " x="63.415784" y="43.7683952" width="1" height="4.51"></rect>
+                                <rect id="Rectangle-path" fill="#999999" fill-rule="nonzero" x="57.12" y="55.53" width="16.04" height="2.01"></rect>
+                                <rect id="Rectangle-path" fill="#B3B3B3" fill-rule="nonzero" x="59.13" y="57.54" width="12.03" height="2.01"></rect>
+                                <rect id="Rectangle-path" fill="#CCCCCC" fill-rule="nonzero" x="59.13" y="59.54" width="12.03" height="2.01"></rect>
+                                <rect id="Rectangle-path" fill="#E6E6E6" fill-rule="nonzero" x="60.63" y="61.55" width="9.02" height="2.01"></rect>
+                                <path d="M56.59,26.57 L54.77,27.62 L57.25,31.91 C57.834291,31.5316351 58.4459875,31.1973746 59.08,30.91 L56.6,26.61 L56.59,26.57 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M66.2,24.56 L64.1,24.56 L64.1,29.56 C64.45,29.56 64.8,29.51 65.15,29.51 C65.5,29.51 65.85,29.51 66.2,29.56 L66.2,24.56 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M49.27,33.12 L48.22,34.94 L52.52,37.42 C52.8073746,36.7859875 53.1416351,36.174291 53.52,35.59 L49.23,33.11 L49.27,33.12 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M84.09,42.45 L79.09,42.45 C79.09,42.8 79.14,43.15 79.14,43.5 C79.14,43.85 79.14,44.2 79.09,44.55 L84.09,44.55 L84.09,42.45 L84.09,42.45 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M81,33.12 L76.73,35.6 C77.1083649,36.184291 77.4426254,36.7959875 77.73,37.43 L82.03,34.95 L81,33.12 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M73.7,26.57 L71.22,30.87 C71.8540125,31.1573746 72.465709,31.4916351 73.05,31.87 L75.53,27.58 L73.7,26.57 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M51.17,42.45 L46.17,42.45 L46.17,44.55 L51.17,44.55 C51.17,44.2 51.12,43.85 51.12,43.5 C51.12,43.15 51.12,42.8 51.17,42.45 L51.17,42.45 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M77.78,49.58 C77.4922952,50.2138477 77.158048,50.8255202 76.78,51.41 L81,53.88 L82.05,52.06 L77.75,49.58 L77.78,49.58 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M52.52,49.58 L48.22,52.06 L49.27,53.88 L53.56,51.4 C53.1816351,50.815709 52.8473746,50.2040125 52.56,49.57 L52.52,49.58 Z" id="Shape" fill="#EFE85B" fill-rule="nonzero"></path>
+                                <path d="M65.22,78.42 L65,78 C76.35,72.72 91.2,62.82 97.56,45.42 C99.8377217,39.457248 100.769938,33.0649106 100.29,26.7 L100.79,26.63 C101.283489,33.0894101 100.340941,39.5779703 98.03,45.63 C94.49,55.28 85.92,68.84 65.22,78.42 Z" id="Shape" fill="#D8D8D8" fill-rule="nonzero"></path>
+                                <circle id="Oval" fill="#4FD684" fill-rule="nonzero" cx="65.12" cy="77.88" r="8"></circle>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="59.52" y="75.62" width="11.2" height="1.6"></rect>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="61.12" y="78.53" width="8" height="1.6"></rect>
+                                <path d="M100.46,28.12 C80.33,13.76 62.12,14.52 50.39,17.69 C42.8032115,19.7079795 35.7083207,23.2537235 29.54,28.11 L29.21,27.73 C35.4226161,22.8330823 42.5680002,19.2535852 50.21,17.21 C62.05,14.01 80.42,13.21 100.71,27.72 L100.46,28.12 Z" id="Shape" fill="#D8D8D8" fill-rule="nonzero"></path>
+                                <circle id="Oval" fill="#4FD684" fill-rule="nonzero" cx="29.37" cy="26.47" r="8"></circle>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="23.77" y="24.22" width="11.2" height="1.6"></rect>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="25.37" y="27.12" width="8" height="1.6"></rect>
+                                <circle id="Oval" fill="#4FD684" fill-rule="nonzero" cx="100.61" cy="26.47" r="8"></circle>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="95.01" y="24.22" width="11.2" height="1.6"></rect>
+                                <rect id="Rectangle-path" fill="#2CBC65" fill-rule="nonzero" x="96.61" y="27.12" width="8" height="1.6"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

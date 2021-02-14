@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-28.0%" y="-24.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Invision/Proto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2h-Design-Thinking-Workshops" transform="translate(-171.000000, -1846.000000)">
+            <g id="Group" transform="translate(149.000000, 1812.000000)">
+                <g id="Page-1" filter="url(#filter-1)" transform="translate(26.000000, 36.000000)">
+                    <g id="Group-3" fill="#4FD684">
+                        <path d="M25.0001,12.4996 C25.0001,19.4036 19.4031,24.9996 12.5001,24.9996 C5.5971,24.9996 0.0001,19.4036 0.0001,12.4996 C0.0001,5.5966 5.5971,-0.0004 12.5001,-0.0004 C19.4031,-0.0004 25.0001,5.5966 25.0001,12.4996" id="Fill-1"></path>
+                    </g>
+                    <polygon id="Fill-4" fill="#FFFFFF" points="10.5987 18.8433 4.3657 12.6103 6.1327 10.8423 10.5987 15.3083 18.8667 7.0403 20.6337 8.8083"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
