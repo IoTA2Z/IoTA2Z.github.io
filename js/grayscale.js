@@ -397,8 +397,6 @@ jQuery(document).ready(function($) {
 //Slide left to right, right to left
 jQuery(document).ready(function($){
   var $animation_elements = $('.animate');
-  var $animation_elements_hidden = $('.animate_hidden');
-  var $animation_elements_fixed_menu = $('.case_inner');
   var $window = $(window);
 
   function check_if_in_view() {
@@ -419,35 +417,6 @@ jQuery(document).ready(function($){
       } //else {
         //$element.removeClass('in-view');
       //}
-    });
-
-    $.each($animation_elements_hidden, function() {
-      var $element = $(this);
-      var element_height = $element.outerHeight();
-      var element_top_position = $element.offset().top;
-      var element_bottom_position = (element_top_position + element_height);
-   
-      //check to see if this current container is within viewport
-      if ((element_bottom_position >= window_top_position) &&
-          (element_top_position <= window_bottom_position)) {
-        $element.addClass('in-view');
-      } else {
-        $element.removeClass('in-view');
-      }
-    });
-
-    $.each($animation_elements_fixed_menu, function() {
-      var $element = $(this);
-      var element_height = $element.outerHeight();
-      var element_top_position = $element.offset().top;
-      var element_bottom_position = (element_top_position + element_height);
-      console.log('element ->' + element_top_position);
-      console.log('current_scroll->' + parseInt($(window).scrollTop() + $('#mainNav').outerHeight()));
-      if( parseInt($(window).scrollTop() + $('#mainNav').outerHeight()) >=element_top_position){
-        $element.find('div.fixed_menu').addClass('in-view');
-      } else {
-        $element.find('div.fixed_menu').removeClass('in-view');
-      }
     });
   }
 
